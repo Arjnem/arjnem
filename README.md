@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Arjnem</h1>
-<h3 align="center">A developer always open to use and learn new technologies</h3>
+# Hi 👋, I'm Arjnem
+A software developer always eager to learn new tools and technologies. I worked professionally using mainly PHP and Python, I'm currently focusing on learning JS/TS and Go.
